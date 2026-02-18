@@ -2,13 +2,9 @@
 
 Hi, I'm Phathutshedzo Evans Munyai.
 
-I am a BSc (Hons) Computer Science student at the University of the Western Cape with a strong focus on Software Development, Artificial Intelligence, and Machine Learning.
+I am a BSc (Hons) Computer Science student at the University of the Western Cape with a strong focus on Software Development, Artificial Intelligence, and Machine Learning. My passion lies in building intelligent and practical systems that solve real-world problems. I am particularly interested in applying AI and data-driven approaches to impactful challenges, including public safety, predictive systems, and scalable software solutions.
 
-My passion lies in building intelligent and practical systems that solve real-world problems. I am particularly interested in applying AI and data-driven approaches to impactful challenges, including public safety, predictive systems, and scalable software solutions.
-
-Through academic research and hands-on development, I continuously refine my problem-solving, analytical thinking, and system design skills. I am driven by growth, innovation, and the desire to contribute meaningfully to South Africa’s technological advancement.
-
-My long-term goal is to become a highly skilled Software Engineer and AI specialist, developing solutions that create measurable social and economic impact.
+Through academic research and hands-on development, I continuously refine my problem-solving, analytical thinking, and system design skills. I am driven by growth, innovation, and the desire to contribute meaningfully to South Africa’s technological advancement. My long-term goal is to become a highly skilled Software Engineer and AI specialist, developing solutions that create measurable social and economic impact.
 
 ## Education
 
