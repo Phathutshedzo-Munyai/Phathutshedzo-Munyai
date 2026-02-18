@@ -30,7 +30,7 @@ Relevant Coursework:
 ##  Skills & Interests
 
 ### Technical Skills
-- Programming: Python, Java, C++
+- Programming: Python, Java
 - Web Development: HTML, CSS, React Native
 - Networking: TCP/UDP Socket Programming, Client-Server Systems
 - Databases: MySQL
