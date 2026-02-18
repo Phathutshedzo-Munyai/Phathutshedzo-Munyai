@@ -1,4 +1,4 @@
-## Personal Introduction
+## A. Personal Introduction
 
 Hi, I'm Phathutshedzo Evans Munyai.
 
@@ -6,7 +6,7 @@ I am a BSc (Hons) Computer Science student at the University of the Western Cape
 
 Through academic research and hands-on development, I continuously refine my problem-solving, analytical thinking, and system design skills. I am driven by growth, innovation, and the desire to contribute meaningfully to South Africa’s technological advancement. My long-term goal is to become a highly skilled Software Engineer and AI specialist, developing solutions that create measurable social and economic impact.
 
-## Education
+## B. Education
 
 **University of the Western Cape**  
 BSc (Hons) in Computer Science  
@@ -23,7 +23,7 @@ Relevant Coursework:
 - Software Engineering
 - Operating Systems
 - Database Systems
-##  Skills & Interests
+##  C. Skills & Interests
 
 ### Technical Skills
 - Programming: Python, Java
@@ -33,7 +33,7 @@ Relevant Coursework:
 - Tools: Git, GitHub
 - Machine Learning Fundamentals
 
-###  Soft Skills
+### Soft Skills
 - Problem-solving
 - Analytical thinking
 - Teamwork & collaboration
@@ -46,7 +46,7 @@ Relevant Coursework:
 - Software Engineering & System Design
 - Networking & Distributed Systems
 - IoT-based Solutions
-## Projects & Competitions
+## D. Projects & Competitions
 
 - Wireless Buzzer Activation System  
 As part of a collaborative engineering team, I contributed to the development of a client-server based wireless buzzer system using TCP socket programming on Raspberry Pi. The project focused on establishing robust, real-time communication between devices over a network. In my specific role of System Design & Network Implementation, I was responsible for architecting the network topology and coding the socket layer to guarantee low latency and high reliability during data transmission.
@@ -59,11 +59,11 @@ As part of a quantitative research team, I contributed to a mathematical analysi
 Collaborated in team-based software development projects during undergraduate studies.  
 Applied Agile principles, version control (Git), and modular system design.
 
-##  Publications
+## E. Publications
 
 No publications yet.
 
-## Affiliations & Memberships
+## F. Affiliations & Memberships
 
 - Computer Science Student, University of the Western Cape
 - Active GitHub contributor
